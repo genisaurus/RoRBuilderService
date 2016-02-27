@@ -1,0 +1,4 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+839,15728640,Alignment of Naggaroth,,0,0,0,FALSE,0,0,0,,,22712
+840,15728640,Bathing In Blood,,0,0,0,FALSE,0,0,0,,,22712
+841,15728640,Dark Blessings,,0,0,0,FALSE,0,0,0,,,22712

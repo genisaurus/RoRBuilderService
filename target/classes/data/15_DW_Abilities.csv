@@ -1,0 +1,4 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+716,15,Ancestral Inheritance,Tactic,0,0,0,FALSE,0,0,0,Buff,Increases your armor by [1].,22711
+713,15,Stoutness of Stone,Tactic,0,0,0,FALSE,0,0,0,Buff,You recover from Stuns and Knockdowns 50% quicker. You will still gain immunity based on the original duration.,22711
+714,15,Stubbornness,Tactic,0,0,0,FALSE,0,0,0,Buff,Increases your Corporeal Resistance by [1],22711

@@ -1,0 +1,4 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+800,61440,Backlash,,0,0,0,FALSE,0,0,0,,,22714
+798,61440,Tzeentch's Warding,,0,0,0,FALSE,0,0,0,,,22714
+797,61440,Warped Flesh,,0,0,0,FALSE,0,0,0,,,22714

@@ -1,0 +1,4 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+779,3840,Emperor's Ward,,0,0,0,FALSE,0,0,0,,,22710
+776,3840,Sigmar's Favor,,0,0,0,FALSE,0,0,0,,,22710
+777,3840,Unwavering Faith,,0,0,0,FALSE,0,0,0,,,22710

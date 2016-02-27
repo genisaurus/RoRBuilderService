@@ -1,0 +1,4 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+758,192,RUN AWAY!,,0,0,0,FALSE,0,0,0,,,22707
+756,192,Too Smart For Dat,,0,0,0,FALSE,0,0,0,,,22707
+760,192,Whazat Behind You?!,,0,0,0,FALSE,0,0,0,,,22707

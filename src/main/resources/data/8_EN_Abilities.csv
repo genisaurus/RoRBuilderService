@@ -1,0 +1,58 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+1514,8,Acid Bomb,,2,0,25,FALSE,0,0,65,,,4604
+1516,8,Addling Shot,,0,0,20,FALSE,0,15,100,,,4605
+1575,8,Armored Plating,,0,0,0,FALSE,0,60,0,,,4620
+1581,8,Artillery Barrage,,2,15,0,TRUE,4,60,100,,,4456
+1574,8,Autoloader,,0,0,0,FALSE,0,60,0,,,4619
+1562,8,Bandolier,,2,11,0,FALSE,0,0,0,,,22706
+1519,8,Barbed Wire,,0,0,25,FALSE,0,30,0,,,4566
+1517,8,Blunderbuss Blast,,3,0,35,FALSE,0,0,0,,,4606
+1518,8,Bombardment Turret,,0,0,55,FALSE,2,5,0,,,4607
+1544,8,Bugman's Best,,3,9,35,FALSE,2,10,0,,,4568
+1529,8,Burn Salve,,3,0,55,FALSE,0,0,0,,,4649
+1576,8,Cannon Smash,,0,0,0,FALSE,0,60,100,,,4621
+1531,8,Concussion Grenade,,2,0,30,FALSE,1,10,65,,,4616
+1549,8,Concussive Mine,,0,0,0,FALSE,0,0,0,,,22708
+1555,8,Coordinated Fire,,0,0,0,FALSE,0,0,0,,,22709
+1536,8,Crack Shot,,1,5,35,FALSE,2,30,100,,,4614
+1542,8,Electromagnet,,3,13,20,FALSE,1,30,0,,,4654
+1551,8,Extra Ammo,,3,3,0,FALSE,0,0,0,,,22698
+1563,8,Extra Powder,,2,3,0,FALSE,0,0,0,,,22694
+1552,8,Fightin' Chance,,0,0,0,FALSE,0,0,0,,,22704
+1523,8,Firebomb,,2,0,35,FALSE,1,0,65,,,4468
+1527,8,Flak Jacket,,0,0,35,FALSE,0,10,0,,,4620
+1526,8,Flame Turret,,0,0,55,FALSE,2,5,0,,,4613
+1522,8,Flashbang Grenade,,2,0,35,FALSE,1,10,65,,,4610
+1582,8,Fling Explosives,,3,15,0,TRUE,4,60,0,,,4623
+1528,8,Focused Fire,,1,0,25,TRUE,3,8,100,,,4527
+1510,8,Fragmentation Grenade,,2,0,45,FALSE,1,5,65,,,4477
+1513,8,Friction Burn,,3,0,40,FALSE,0,10,0,,,4656
+1508,8,Gun Blast,,1,0,40,FALSE,2,0,100,,,4460
+1511,8,Gun Turret,,0,0,55,FALSE,2,5,0,,,4602
+1550,8,Hand-Crafted Scope,,0,0,0,FALSE,0,0,0,,,22697
+1520,8,Hip Shot,,1,0,35,FALSE,0,10,100,,,4608
+1560,8,Hollow-Points,,1,7,0,FALSE,0,0,0,,,22697
+1515,8,Incendiary Rounds,,1,0,45,FALSE,0,10,100,,,4457
+1524,8,Land Mine,,3,0,50,FALSE,0,15,65,,,4611
+1543,8,Lightning Rod,,3,5,45,FALSE,1,20,0,,,4655
+1537,8,Napalm Grenade,,2,13,30,FALSE,0,30,65,,,4653
+1541,8,Phosphorous Shells,,1,13,40,FALSE,1,20,80,,,4657
+1553,8,Proximity Alarm,,0,0,0,FALSE,0,0,0,,,22694
+1559,8,Quick Reloader,,1,11,0,FALSE,0,0,0,,,22704
+1532,8,Redeploy,,0,0,60,FALSE,0,20,0,,,4652
+1548,8,Reinforced Casing,,0,0,0,FALSE,0,0,0,,,22694
+1580,8,Scattershot,,1,15,0,TRUE,4,60,0,,,4622
+1525,8,Self-Destruct,,0,0,0,FALSE,0,60,100,,,4612
+1512,8,Shock Grenade,,0,0,0,FALSE,0,20,65,,,4603
+1521,8,Signal Flare,,1,0,40,FALSE,0,20,100,,,4609
+1538,8,Snipe,,1,9,35,FALSE,3,5,150,,,4615
+1509,8,Spanner Swipe,,0,0,35,FALSE,0,0,5,,,4466
+1530,8,Static Discharge,,3,0,35,FALSE,0,5,0,,,4651
+1539,8,Sticky Bomb,,2,5,40,FALSE,0,10,65,,,4476
+1561,8,Stopping Power,,1,3,0,FALSE,0,0,0,,,22708
+1540,8,Strafing Run,,2,9,55,FALSE,0,30,0,,,4531
+1554,8,Tangling Wire,,0,0,0,FALSE,0,0,0,,,22697
+1564,8,Throwing Arm,,2,7,0,FALSE,0,0,0,,,22697
+1566,8,Tracer Rounds,,3,11,0,FALSE,0,0,0,,,22697
+1567,8,Trench Fighting,,3,7,0,FALSE,0,0,0,,,22698
+1565,8,Well-Oiled Machine,,0,0,0,FALSE,0,0,0,,,22709

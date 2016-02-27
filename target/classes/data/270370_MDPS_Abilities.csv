@@ -1,0 +1,2 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+14423,270370,Bypass Defenses,Ability,0,0,0,FALSE,0,120,0,,,23403

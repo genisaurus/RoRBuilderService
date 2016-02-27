@@ -1,0 +1,56 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+1902,64,'Ere We Go!,,2,0,25,FALSE,0,10,0,,,2425
+1901,64,"'Ey, Quit Bleedin'",,0,0,30,FALSE,0,0,150,,,2576
+1939,64,Ain't Done Yet!,,0,0,0,FALSE,0,0,0,,,22707
+1913,64,Big Waaagh!,,2,0,35,FALSE,1,5,65,,,2498
+1904,64,"Bigger, Better, An' Greener",,1,0,45,FALSE,2,0,150,,,2466
+1912,64,Bleed Fer' Me,,3,0,35,FALSE,0,10,100,,,2582
+1899,64,Brain Bursta,,2,0,30,FALSE,2,0,100,,,2459
+1965,64,Breath of Mork,,0,0,0,FALSE,0,60,150,,,2462
+1903,64,Bunch o' Waaagh,,2,0,13,TRUE,6,11,100,,,2577
+1938,64,Burst O' Waaagh!,,0,0,0,FALSE,0,0,0,,,22707
+1931,64,Da Waaagh! Is Coming,,2,13,55,FALSE,2,5,80,,,2403
+1941,64,Dat Makes Me Dizzy,,0,0,0,FALSE,0,0,0,,,22703
+1926,64,Do Sumfin Useful,,1,13,40,FALSE,0,0,150,,,2501
+1932,64,Don' Feel Nuthin,,3,0,35,FALSE,0,20,150,,,2534
+1914,64,Eeeek!,,0,0,40,FALSE,0,60,0,,,2583
+1957,64,Ere We Goes Again,,2,3,0,FALSE,0,0,0,,,22703
+1940,64,Extra Special Mushrooms,,0,0,0,FALSE,0,0,0,,,22708
+1970,64,Feelz No Pain,,1,15,0,FALSE,0,60,0,,,2586
+1971,64,Fists of Gork,,2,15,0,FALSE,0,60,100,,,2545
+1935,64,Fury of Da Green,,3,13,35,FALSE,2,5,80,,,7996
+1907,64,Gather Round,,1,0,65,FALSE,3,0,0,,,2467
+1929,64,Geddoff!,,2,5,25,FALSE,2,20,100,,,2456
+1908,64,Gedup!,,0,0,20,FALSE,3,6,100,,,2433
+1944,64,Get Movin'!,,0,0,0,FALSE,0,0,0,,,22704
+1943,64,Git Outta Here!,,0,0,0,FALSE,0,0,0,,,22694
+1952,64,Gork Fix'd It,,1,3,0,FALSE,0,0,0,,,22695
+1964,64,Gork Sez Stop,,0,0,0,FALSE,0,60,100,,,2505
+1898,64,Gork'll Fix It,,1,0,55,FALSE,1,0,150,,,2444
+1905,64,Gork's Barbs',,2,9,30,FALSE,0,30,100,,,2578
+1945,64,Green Cleanin',,0,0,0,FALSE,0,0,0,,,22706
+1906,64,Greener 'n Cleaner,,1,0,35,FALSE,0,5,150,,,2579
+1953,64,"Hurts, Don't It?",,2,11,0,FALSE,0,0,0,,,22704
+1930,64,I'll Take That!,,3,0,30,FALSE,2,0,100,,,2464
+1900,64,Life Leaka,,2,0,30,FALSE,0,0,100,,,2575
+1918,64,Look Over There!,,0,0,20,FALSE,0,15,100,,,2477
+1950,64,Lookit What I Did!,,1,7,0,FALSE,0,0,0,,,22708
+1942,64,Mork Is Watchin',,0,0,0,FALSE,0,0,0,,,22704
+1910,64,Mork's Buffer,,1,0,55,FALSE,0,0,0,,,2472
+1954,64,Mork's Touch,,2,7,0,FALSE,0,0,0,,,22696
+1949,64,Nuthin' But Da WAAAGH!,,3,11,0,FALSE,0,0,0,,,22703
+1951,64,Pass It On,,1,11,0,FALSE,0,0,0,,,22706
+1933,64,Scuse Me!,,3,5,45,FALSE,0,30,0,,,2500
+1928,64,Shrug It Off,,1,9,55,FALSE,0,60,100,,,2463
+1972,64,Steal Yer Thunder,,3,15,0,FALSE,0,60,100,,,2588
+1927,64,Sticky Feetz,,1,5,20,FALSE,0,20,100,,,4543
+1915,64,Stop hittin' me!,,0,0,40,FALSE,0,30,0,,,2584
+263,64,Waaagh!,,0,0,0,FALSE,0,0,0,,,2497
+267,64,Waaagh!,,0,0,0,FALSE,0,0,0,,,2497
+1955,64,Waaagh! Frenzy,,3,3,0,FALSE,0,0,0,,,22694
+1934,64,Yer A Weaklin',,3,0,30,FALSE,0,10,100,,,2504
+1911,64,Yer Not So Bad,,0,0,50,FALSE,0,10,100,,,2581
+1917,64,You Got Nuthin!,,3,9,25,FALSE,1,30,100,,,2460
+1956,64,You Really Got Nuthin,,3,7,0,FALSE,0,0,0,,,22708
+1966,64,You Weren't Using Dat,,0,0,0,FALSE,0,60,0,,,2506
+1916,64,You'z Squishy,,3,0,20,FALSE,0,0,100,,,2585

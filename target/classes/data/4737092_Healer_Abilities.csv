@@ -1,0 +1,11 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+697,4737092,Alter Fate,,0,0,0,FALSE,0,60,0,,,23150
+592,4737092,Discipline,,0,0,0,FALSE,0,0,0,,,22706
+694,4737092,Divine Favor,,0,0,0,FALSE,0,60,150,,,23151
+585,4737092,Divine Fury,,0,0,0,FALSE,0,0,0,,,22703
+696,4737092,Divine Protection,,0,0,0,FALSE,0,60,0,,,23152
+695,4737092,Focused Mind,,0,0,0,FALSE,0,60,0,,,23153
+692,4737092,Rampaging Siphon,,0,0,0,FALSE,0,60,0,,,23154
+589,4737092,Restorative Burst,,0,0,0,FALSE,0,0,0,,,22694
+690,4737092,Steal Life,,0,0,0,FALSE,0,60,100,,,23155
+588,4737092,Subtlety,,0,0,0,FALSE,0,0,0,,,22709

@@ -1,0 +1,58 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+9053,65536,Adept Movements,,0,0,0,FALSE,0,0,0,,,22704
+9033,65536,Aethyric Armor,,3,5,35,FALSE,0,0,0,,,13390
+9018,65536,Aethyric Grasp,,0,0,30,FALSE,0,60,0,,,13381
+9062,65536,Balanced Accuracy,,1,7,0,FALSE,0,0,0,,,22709
+9058,65536,Bladeshield,,0,0,0,FALSE,0,60,0,,,13393
+9067,65536,Blessing of Heaven,,3,11,0,FALSE,0,0,0,,,22706
+9022,65536,Blurring Shock,,1,0,0,FALSE,0,0,5,,,13386
+9066,65536,Bolstering Enchantments,,3,3,0,FALSE,0,0,0,,,22703
+9070,65536,Calming Winds,,3,7,0,FALSE,0,0,0,,,22694
+9013,65536,Challenge,,0,0,30,FALSE,0,30,0,,,13378
+9028,65536,Crashing Wave,,2,9,0,FALSE,0,20,5,,,13383
+9027,65536,Crushing Advance,,2,13,30,FALSE,0,10,5,,,13385
+9044,65536,Dampening Talon,,0,0,0,FALSE,0,0,0,,,22709
+9019,65536,Dazzling Strike,,3,0,0,FALSE,0,0,5,,,13304
+9068,65536,Deep Incision,,1,3,0,FALSE,0,0,0,,,22701
+9006,65536,Dragon's Talon,,2,0,0,FALSE,0,0,5,,,13301
+9007,65536,Eagle's Flight,,2,0,35,FALSE,0,0,5,,,13372
+9045,65536,Ensorcelled Agony,,0,0,0,FALSE,0,0,0,,,22701
+9010,65536,Ensorcelled Blow,,3,0,35,FALSE,0,0,5,,,13375
+9026,65536,Ether Dance,,1,13,0,TRUE,3,8,5,,,13384
+9049,65536,Forceful Shock,,0,0,0,FALSE,0,0,0,,,22708
+9002,65536,Graceful Strike,,2,0,35,FALSE,0,0,5,,,13302
+9063,65536,Great Weapon Mastery,,1,11,0,FALSE,0,0,0,,,22709
+9031,65536,Gryphon's Lash,,1,0,40,FALSE,0,0,5,,,13389
+9008,65536,Guard,,0,0,0,FALSE,0,0,150,,,13373
+9056,65536,Guard of Steel,,0,0,0,FALSE,0,60,0,,,13391
+9012,65536,Gusting Wind,,3,0,0,FALSE,0,10,0,,,13377
+9015,65536,Heaven's Blade,,3,0,55,FALSE,0,0,0,,,13379
+9023,65536,Hold The Line!,,0,0,20,TRUE,12,0,0,,,13334
+9050,65536,Impeccable Reactions,,0,0,0,FALSE,0,0,0,,,22705
+9011,65536,Intimidating Blow,,2,0,40,FALSE,0,5,5,,,13376
+9043,65536,Isha's Protection,,0,0,0,FALSE,0,0,0,,,22706
+9016,65536,Juggernaut,,0,0,45,FALSE,0,60,0,,,13338
+9065,65536,Lingering Intimidation,,2,7,0,FALSE,0,0,0,,,22704
+9009,65536,Nature's Blade,,1,0,55,FALSE,0,0,0,,,13374
+9064,65536,Perfect Defenses,,2,3,0,FALSE,0,0,0,,,22702
+9020,65536,Phantom's Blade,,2,0,55,FALSE,0,0,0,,,13382
+9025,65536,Phoenix's Wing,,1,9,30,FALSE,0,0,0,,,13303
+9052,65536,Poised Attacks,,0,0,0,FALSE,0,0,0,,,22698
+9047,65536,Potent Enchantments,,0,0,0,FALSE,0,0,0,,,22708
+9029,65536,Protection of Hoeth,,3,9,25,FALSE,0,10,0,,,13387
+9004,65536,Quick Incision,,1,0,35,FALSE,0,0,5,,,13370
+9032,65536,Redirected Force,,2,5,25,FALSE,0,5,5,,,13394
+9014,65536,Sapping Strike,,1,5,25,FALSE,0,10,5,,,13300
+9076,65536,Shadow Blades,,3,15,0,FALSE,0,60,0,,,13397
+9034,65536,Shatter Enchantment,,0,0,25,FALSE,0,5,5,,,2497
+9075,65536,Shield of Valor,,2,15,0,FALSE,0,60,0,,,13396
+9035,65536,Sudden Shift,,0,0,0,FALSE,0,5,250,,,13330
+278,65536,Sword Dance,,0,0,0,FALSE,0,0,0,,,13300
+9005,65536,Taunt,,0,0,20,FALSE,0,15,65,,,13371
+9003,65536,Throw,,0,0,20,FALSE,1,0,65,,,13369
+9069,65536,Vaul's Buffer,,2,11,0,FALSE,0,0,0,,,22706
+9021,65536,Wall of Darting Steel,,1,0,20,TRUE,20,0,0,,,13305
+9074,65536,Whirling Geyser,,1,15,0,FALSE,0,60,0,,,13395
+9030,65536,Whispering Wind,,3,13,0,FALSE,0,20,5,,,13380
+9057,65536,Wings of Heaven,,0,0,0,FALSE,0,60,100,,,13392
+9017,65536,Wrath of Hoeth,,3,0,55,FALSE,0,0,0,,,13388

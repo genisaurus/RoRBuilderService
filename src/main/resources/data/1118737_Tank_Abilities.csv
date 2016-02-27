@@ -1,0 +1,12 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+14420,1118737,Bulwark,Ability,0,0,0,FALSE,15,300,5,Healing,Repairs a friendly keep door for 5% of its total health over 15 seconds,23402
+608,1118737,Champion's Challenge,Morale1,0,0,0,FALSE,0,60,5,Buff,"Both you and your target are held tightly in place for 10 seconds, and neither one of you can move. This effect can not be dispelled or broken.",23174
+606,1118737,Demolishing Strike,Morale1,0,0,0,FALSE,0,60,5,Buff,A powerful melee attack that reduces armor by [1] and deals [2] damage over 15 seconds.,23172
+610,1118737,Distracting Bellow,Morale3,0,0,0,FALSE,0,60,100,Buff,"A loud shout that startles your target and all enemies within 30 feet of them, reducing their damage to 50% for 10 seconds.",23173
+500,1118737,Focused Offense,Tactic,0,0,0,FALSE,0,0,0,Buff,"You deal 15% more damage, and all enemy monsters will hate you 15% less than normal, but your armor is reduced by 33%. ",22701
+613,1118737,Immaculate Defense,Ability,0,0,0,FALSE,0,60,0,Damaging,An impressive display of defense which reduces incoming damage by 75% for both you and all group members within 100 feet of you for 10 seconds.,23175
+504,1118737,Menace,Ability,0,0,0,FALSE,0,0,0,Buff,Enemy monsters will hate you 100% more than normal on all attacks.,22709
+607,1118737,Raze,Morale2,0,0,0,TRUE,3,60,0,Buff,"Repeatedly attack all enemies in a line in front of you, inflicting [1] damage every second for 3 seconds, up to 65 feet away.",23176
+503,1118737,Rugged,Tactic,0,0,0,FALSE,0,0,0,Buff,Increases Toughness by [1].,22702
+611,1118737,Shield Wall,Morale2,0,0,0,FALSE,0,60,0,Buff,"For the next 10 seconds, your chance to block is almost guaranteed.",23177
+505,1118737,Unstoppable Juggernaut,Tactic,0,0,0,FALSE,0,0,0,Buff,Juggernaut's cooldown is reduced to 20 seconds.,22694

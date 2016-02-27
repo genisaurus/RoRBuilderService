@@ -1,0 +1,57 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+1632,4,Ancestor's Blessing,,1,7,0,FALSE,0,0,0,,,22709
+1639,4,Ancestor's Echo,,3,11,0,FALSE,0,0,0,,,22706
+1624,4,Blessing of Grungni,,0,0,0,FALSE,0,0,0,,,22704
+1604,4,Blessing of Valaya,,3,0,65,FALSE,3,0,0,,,4489
+1623,4,Cleansing Vitality,,0,0,0,FALSE,0,0,0,,,22706
+1638,4,Concussive Runes,,3,7,0,FALSE,0,0,0,,,22709
+1636,4,Earth's Shielding,,2,7,0,FALSE,0,0,0,,,22704
+1637,4,Efficient Runecarving,,2,11,0,FALSE,0,0,0,,,22708
+1640,4,Extended Battle,,3,3,0,FALSE,0,0,0,,,22694
+1619,4,Grimnir's Fury,,3,13,35,FALSE,5,180,0,,,4557
+1592,4,Grimnir's Shield,,0,0,35,FALSE,0,180,0,,,4628
+1587,4,Grungni's Gift,,1,0,15,FALSE,0,0,150,,,4625
+1635,4,Immolating Grasp,,2,3,0,FALSE,0,0,0,,,22694
+1618,4,Master Rune of Adamant,,3,5,35,FALSE,0,30,80,,,4502
+1612,4,Master Rune of Fury,,1,5,35,FALSE,0,30,80,,,4637
+1615,4,Master Rune of Speed,,2,5,35,FALSE,0,30,80,,,4640
+1644,4,Mountain Spirit,,0,0,0,FALSE,0,60,0,,,4642
+1600,4,Oath Rune of Iron,,2,0,25,FALSE,0,0,100,,,4634
+1591,4,Oath Rune of Power,,1,0,25,FALSE,0,0,100,,,4562
+1608,4,Oath Rune of Sanctuary,,0,0,25,FALSE,0,600,100,,,4554
+1588,4,Oath Rune of Warding,,3,0,25,FALSE,0,0,100,,,4626
+1627,4,On Your Feet!,,0,0,0,FALSE,0,0,0,,,22706
+1625,4,Potent Runes,,0,0,0,FALSE,0,0,0,,,22694
+1606,4,Protection of the Ancestors,,1,0,35,FALSE,0,180,100,,,4636
+1622,4,Regenerative Shielding,,0,0,0,FALSE,0,0,0,,,22702
+1617,4,Rune of Battle,,3,9,45,FALSE,2,60,150,,,4641
+1613,4,Rune of Binding,,1,13,25,FALSE,0,20,100,,,4638
+1659,4,Rune of Breaking,,0,0,0,FALSE,0,20,150,,,4100
+1614,4,Rune of Burning,,2,9,20,TRUE,6,11,100,,,4639
+1602,4,Rune of Cleansing,,0,0,25,FALSE,0,5,150,,,4507
+1597,4,Rune of Cleaving,,3,0,30,FALSE,0,10,0,,,4632
+1648,4,Rune of Ending,,1,15,0,FALSE,0,60,0,,,4643
+1616,4,Rune of Fate,,2,13,30,FALSE,0,30,100,,,4500
+1594,4,Rune of Fire,,1,0,35,FALSE,0,5,100,,,4630
+1611,4,Rune of Fortune,,1,9,30,FALSE,2,0,100,,,4559
+1589,4,Rune of Immolation,,2,0,30,FALSE,0,0,100,,,4627
+1643,4,Rune of Insanity,,0,0,0,FALSE,0,60,100,,,4537
+1598,4,Rune of Life,,0,0,20,FALSE,3,6,100,,,4633
+1599,4,Rune of Mending,,2,0,55,FALSE,1,0,150,,,4503
+1603,4,Rune of Might,,3,0,40,FALSE,0,5,0,,,4558
+1633,4,Rune of Nullification,,1,11,0,FALSE,0,0,0,,,22702
+1595,4,Rune of Preservation,,0,0,20,FALSE,0,15,100,,,4631
+1645,4,Rune of Rebirth,,0,0,0,FALSE,0,60,0,,,4535
+1590,4,Rune of Regeneration,,0,0,30,FALSE,0,0,150,,,4561
+1596,4,Rune of Restoration,,1,0,45,FALSE,2,0,150,,,4563
+1601,4,Rune of Serenity,,3,0,40,FALSE,1,10,150,,,4635
+1593,4,Rune of Shielding,,2,0,35,FALSE,0,20,100,,,4629
+1650,4,Rune of Skewering,,3,15,0,FALSE,0,60,0,,,4645
+1586,4,Rune of Striking,,1,0,25,FALSE,2,0,100,,,4624
+1605,4,Rune of Sundering,,0,0,40,FALSE,0,60,0,,,4564
+1634,4,Runic Blasting,,1,3,0,FALSE,0,0,0,,,22703
+1607,4,Spellbinding Rune,,2,0,20,FALSE,1,30,100,,,4533
+1628,4,Sundered Motion,,0,0,0,FALSE,0,0,0,,,22703
+1626,4,Swift Runes,,0,0,0,FALSE,0,0,0,,,22694
+1629,4,Thick-Skulled,,0,0,0,FALSE,0,0,0,,,22696
+1649,4,Valaya's Shield,,2,15,0,FALSE,0,60,0,,,4644

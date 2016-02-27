@@ -1,0 +1,4 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+819,983040,Bend the Winds,,0,0,0,FALSE,0,0,0,,,22705
+818,983040,Centuries of Training,,0,0,0,FALSE,0,0,0,,,22705
+823,983040,Discerning Offense,,0,0,0,FALSE,0,0,0,,,22705

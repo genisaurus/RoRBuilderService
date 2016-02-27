@@ -1,0 +1,4 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+245,16777215,Flee,Ability,0,0,0,FALSE,0,30,0,Buff,"You run away from the battle in a mad panic, increasing your run speed by 30% for 10 seconds. You immediately lose all of your action points, any career mechanic points, and your Morale will begin to drop, and you will not begin to regain action points until 10 seconds have passed.
+
+You can use this ability again to cancel the effect early, but you will still remain panicked and will not regain action points for the full duration.",5004

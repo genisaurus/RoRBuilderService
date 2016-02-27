@@ -1,0 +1,58 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+8022,512,All Out Assault!,,1,0,0,FALSE,0,4,0,,,7996
+8026,512,Arcing Swing,,1,0,55,FALSE,0,10,0,,,8057
+8047,512,Banish Darkness,,0,0,0,FALSE,0,0,0,,,22703
+8048,512,Bellow Commands,,0,0,0,FALSE,0,0,0,,,22715
+8044,512,Biting Blade,,0,0,0,FALSE,0,0,0,,,22701
+8007,512,Blazing Blade,,3,0,30,FALSE,0,0,5,,,8006
+8021,512,Challenge,,0,0,30,FALSE,0,30,0,,,8058
+8056,512,Coordination,,2,3,0,FALSE,0,0,0,,,22706
+8012,512,Crippling Blow,,1,0,30,FALSE,0,5,5,,,7945
+8049,512,Destroy Confidence,,0,0,0,FALSE,0,0,0,,,22698
+8057,512,Dirty Tricks,,2,7,0,FALSE,0,0,0,,,22704
+8053,512,Efficient Swings,,1,11,0,FALSE,0,0,0,,,22694
+8070,512,Emperor's Champion,,0,0,0,FALSE,0,60,0,,,8011
+8054,512,Encouraged Aim,,1,7,0,FALSE,0,0,0,,,22701
+8075,512,Flawless Defense,,2,15,0,FALSE,0,60,0,,,8059
+8060,512,Focused Mending,,3,7,0,FALSE,0,0,0,,,22706
+8008,512,Gather Your Resolve!,,3,0,0,FALSE,0,4,0,,,8002
+8042,512,Gilded Shield,,0,0,0,FALSE,0,0,0,,,22702
+8013,512,Guard,,0,0,0,FALSE,0,0,150,,,8078
+8068,512,Guardian of Light,,0,0,0,FALSE,0,60,0,,,8060
+8038,512,Heaven's Fury,,3,9,45,FALSE,0,20,0,,,8061
+8014,512,Hold The Line!,,0,0,20,TRUE,12,0,0,,,7997
+8019,512,Juggernaut,,0,0,45,FALSE,0,60,0,,,8062
+8058,512,Laurels of Victory,,2,11,0,FALSE,0,0,0,,,22713
+8061,512,Mighty Soul,,3,11,0,FALSE,0,0,0,,,22715
+8031,512,Myrmidia's Fury,,1,9,25,TRUE,3,8,5,,,8063
+8069,512,No Escape,,0,0,0,FALSE,0,60,0,,,8064
+8074,512,Nova Strike,,1,15,0,FALSE,0,60,0,,,8065
+8036,512,Now's Our Chance!,,3,5,0,FALSE,0,4,0,,,8066
+8015,512,On Your Guard!,,2,0,0,FALSE,0,4,0,,,7991
+8016,512,Perseverance,,2,0,20,FALSE,0,30,0,,,8067
+8005,512,Precision Strike,,1,0,40,FALSE,0,0,5,,,8068
+8004,512,Press The Attack!,,1,0,0,FALSE,0,4,0,,,7995
+8017,512,Repel Darkness,,2,0,35,FALSE,0,20,5,,,7961
+8043,512,Runefang,,0,0,0,FALSE,0,0,0,,,22708
+8024,512,Shackle,,0,0,30,FALSE,0,60,0,,,8005
+8023,512,Shatter Confidence,,3,0,25,FALSE,0,5,5,,,8010
+8025,512,Shield of the Sun,,3,0,35,FALSE,0,30,0,,,8070
+8011,512,Shield Rush,,2,0,25,FALSE,0,10,5,,,8009
+8035,512,Shining Blade,,1,0,30,FALSE,0,10,5,,,8071
+8055,512,Slice Through,,1,3,0,FALSE,0,0,0,,,22709
+8018,512,Smashing Counter,,2,9,25,FALSE,0,20,5,,,8072
+8076,512,Solar Flare,,3,15,0,FALSE,0,60,0,,,8073
+8032,512,Staggering Impact,,1,13,40,FALSE,0,30,0,,,8074
+8006,512,Stand Strong!,,2,0,0,FALSE,0,4,0,,,8075
+8020,512,Stay Focused!,,3,0,0,FALSE,0,4,0,,,8003
+8045,512,Sun's Blessing,,0,0,0,FALSE,0,0,0,,,22709
+8002,512,Sunder,,2,0,30,FALSE,0,0,5,,,7990
+8059,512,Sunfury,,3,3,0,FALSE,0,0,0,,,22702
+8010,512,Taunt,,0,0,20,FALSE,0,15,65,,,7994
+8003,512,Throw Blade,,0,0,20,FALSE,1,0,65,,,7992
+8030,512,To Glory!,,1,5,0,FALSE,0,4,0,,,8076
+8033,512,To Victory!,,2,5,0,FALSE,0,4,0,,,8007
+8037,512,Unbalancing Attack,,3,13,30,FALSE,0,10,5,,,8077
+8009,512,Vicious Slash,,3,0,35,FALSE,0,10,5,,,7999
+8034,512,Vigilance,,2,13,0,FALSE,0,30,0,,,8078
+8046,512,Well-Trained,,0,0,0,FALSE,0,0,0,,,22704

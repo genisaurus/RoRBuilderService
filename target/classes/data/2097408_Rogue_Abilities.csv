@@ -1,0 +1,2 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+14427,2097408,Pick Lock,Ability,0,0,0,FALSE,0,120,0,,,23412

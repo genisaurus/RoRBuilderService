@@ -1,0 +1,4 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+735,48,Don't Bother Me None,,0,0,0,FALSE,0,0,0,,,22707
+734,48,I'm Da Biggest!,,0,0,0,FALSE,0,0,0,,,22707
+739,48,Stab You Gooder,,0,0,0,FALSE,0,0,0,,,22707

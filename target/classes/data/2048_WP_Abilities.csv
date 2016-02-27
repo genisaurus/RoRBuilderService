@@ -1,0 +1,56 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+8270,2048,Absence of Faith,,3,9,25,FALSE,0,20,5,,,8040
+8309,2048,Avatar of Sigmar,,3,15,0,FALSE,0,60,0,,,8043
+8240,2048,Bludgeon,,3,0,30,FALSE,0,0,5,,,7959
+8248,2048,Breath of Sigmar,,0,0,0,FALSE,3,6,100,,,7901
+8257,2048,Castigation,,3,0,30,FALSE,0,5,5,,,8001
+8277,2048,Charged Fury,,0,0,0,FALSE,0,0,0,,,22710
+8289,2048,Cleansing Power,,1,11,0,FALSE,0,0,0,,,22704
+8302,2048,Divine Aegis,,0,0,0,FALSE,0,60,0,,,7949
+8238,2048,Divine Aid,,1,0,0,FALSE,1,0,150,,,7903
+8310,2048,Divine Amazement,,2,15,0,FALSE,0,60,0,,,8044
+8244,2048,Divine Assault,,2,0,0,TRUE,3,8,5,,,8031
+8279,2048,Divine Justice,,3,3,0,FALSE,0,0,0,,,22706
+8264,2048,Divine Light,,1,5,0,FALSE,0,60,0,,,7904
+8239,2048,Divine Mend,,1,0,35,FALSE,1,5,150,,,7945
+8283,2048,Divine Petitioning,,0,0,0,FALSE,0,0,0,,,22704
+8303,2048,Divine Replenishment,,0,0,0,FALSE,0,60,0,,,7905
+8254,2048,Divine Shock,,0,0,40,FALSE,0,60,0,,,8033
+8288,2048,Divine Warding,,1,3,0,FALSE,0,0,0,,,22694
+8294,2048,Endless Guilt,,0,0,0,FALSE,0,0,0,,,22696
+8280,2048,Exalted Defenses,,0,0,0,FALSE,0,0,0,,,22702
+8293,2048,Fanaticism,,0,0,0,FALSE,0,0,0,,,22701
+8282,2048,Fueled Fury,,0,0,0,FALSE,0,0,0,,,22710
+8308,2048,Gift of Life,,1,15,0,FALSE,0,60,0,,,8042
+8292,2048,Grace of Sigmar,,2,11,0,FALSE,0,0,0,,,22703
+8291,2048,Greave of Sigmar,,2,3,0,FALSE,0,0,0,,,22703
+8295,2048,Guilty Soul,,3,11,0,FALSE,0,0,0,,,22709
+8272,2048,Hammer of Sigmar,,3,13,30,FALSE,0,10,5,,,7962
+8276,2048,Hastened Divinity,,0,0,0,FALSE,0,0,0,,,22708
+8241,2048,Healing Hand,,0,0,0,FALSE,0,0,150,,,7960
+8281,2048,Intimidating Repent,,3,7,0,FALSE,0,0,0,,,22694
+8236,2048,Judgement,,1,0,15,FALSE,1,0,65,,,8029
+8290,2048,Leading the Prayer,,2,7,0,FALSE,0,0,0,,,22706
+8266,2048,Martyr's Blessing,,1,13,0,TRUE,3,13,0,,,8036
+8304,2048,Penance,,0,0,0,FALSE,0,60,5,,,7916
+8265,2048,Pious Restoration,,1,9,0,FALSE,0,10,0,,,8035
+8242,2048,Prayer of Absolution,,1,0,0,FALSE,0,10,0,,,7917
+8249,2048,Prayer of Devotion,,2,0,0,FALSE,0,10,0,,,7943
+8243,2048,Prayer of Righteousness,,3,0,0,FALSE,0,10,0,,,7950
+8251,2048,Purge,,0,0,25,FALSE,0,5,5,,,8041
+8246,2048,Purify,,0,0,0,FALSE,0,5,150,,,8032
+8287,2048,Refreshing Radiance,,1,7,0,FALSE,0,0,0,,,22708
+8245,2048,Repent,,0,0,20,FALSE,0,15,100,,,8054
+311,2048,Righteous Fury Passive,,0,0,0,FALSE,0,0,0,,,7923
+8278,2048,Shield of Faith,,0,0,0,FALSE,0,0,0,,,22702
+8253,2048,Sigmar's Fist,,2,0,25,FALSE,0,5,5,,,7944
+8269,2048,Sigmar's Grace,,2,13,35,FALSE,2,5,0,,,8039
+8252,2048,Sigmar's Radiance,,2,0,35,FALSE,0,0,5,,,7953
+8267,2048,Sigmar's Shield,,2,9,25,FALSE,0,20,5,,,8034
+8268,2048,Sigmar's Vision,,2,5,30,FALSE,0,5,5,,,8038
+8250,2048,Smite,,3,0,45,FALSE,0,5,0,,,7923
+8271,2048,Soulfire,,3,5,35,FALSE,2,0,0,,,7947
+8237,2048,Supplication,,0,0,30,TRUE,5,10,0,,,8030
+8247,2048,Touch of the Divine,,1,0,0,FALSE,1,0,0,,,7946
+8256,2048,Vow of Silence,,2,0,25,FALSE,0,30,5,,,8037
+8255,2048,Weight of Guilt,,3,0,30,FALSE,0,10,5,,,7927

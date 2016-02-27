@@ -1,0 +1,11 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+549,131208,Clever Recovery,,0,0,0,FALSE,0,0,0,,,22698
+652,131208,Concealment,,0,0,0,FALSE,0,60,0,,,23162
+544,131208,Expert Skirmisher,,0,0,0,FALSE,0,0,0,,,22694
+650,131208,Explosive Shots,,0,0,0,FALSE,0,60,0,,,23163
+653,131208,Focused Mind,,0,0,0,FALSE,0,60,0,,,23153
+651,131208,Hail of Doom,,0,0,0,TRUE,6,60,100,,,23164
+542,131208,Masterful Aim,,0,0,0,FALSE,0,0,0,,,22697
+550,131208,Pierce Defenses,,0,0,0,FALSE,0,0,0,,,22709
+648,131208,Point-Blank,,0,0,0,FALSE,0,60,100,,,23165
+649,131208,Unshakable Focus,,0,0,0,FALSE,0,60,0,,,23166

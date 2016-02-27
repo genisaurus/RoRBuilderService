@@ -1,0 +1,56 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+9601,4194304,Bleed Out,,0,0,0,FALSE,0,0,0,,,22694
+9561,4194304,Blood Offering,,0,0,30,TRUE,5,10,0,,,10949
+9598,4194304,Bloodthirst,,2,3,0,FALSE,0,0,0,,,22709
+9585,4194304,Bound by Blood,,0,0,0,FALSE,0,0,0,,,22706
+9618,4194304,Chant of Pain,,3,15,0,FALSE,0,60,0,,,10967
+9552,4194304,Cleave Soul,,2,0,30,FALSE,0,0,5,,,10939
+9569,4194304,Consume Enchantment,,0,0,30,FALSE,0,5,5,,,5188
+9560,4194304,Consume Strength,,3,0,25,FALSE,0,5,5,,,10948
+9565,4194304,Consume Thought,,3,0,25,FALSE,0,30,5,,,10953
+9559,4194304,Covenant of Celerity,,2,0,0,FALSE,0,10,0,,,10947
+9563,4194304,Covenant of Tenacity,,1,0,0,FALSE,0,10,0,,,10951
+9567,4194304,Covenant of Vitality,,3,0,0,FALSE,0,10,0,,,10955
+9602,4194304,Curse of Khaine,,2,11,0,FALSE,0,0,0,,,22706
+9578,4194304,Devour Essence,,3,9,0,FALSE,0,20,150,,,10958
+9597,4194304,Efficient Patching,,1,11,0,FALSE,0,0,0,,,22708
+9600,4194304,Empowered Transfer,,3,11,0,FALSE,0,0,0,,,22706
+9566,4194304,Essence Lash,,2,0,45,FALSE,0,5,0,,,10954
+9575,4194304,Fell Sacrifice,,2,9,30,FALSE,1,2,0,,,10950
+9568,4194304,Fist of Khaine,,1,0,15,FALSE,1,0,65,,,10934
+9549,4194304,Flay,,2,0,30,FALSE,0,10,5,,,10936
+9587,4194304,Fueled Actions,,0,0,0,FALSE,0,0,0,,,22708
+9603,4194304,Gift of Khaine,,3,7,0,FALSE,0,0,0,,,22712
+9599,4194304,Horrifying Offering,,3,3,0,FALSE,0,0,0,,,22708
+9588,4194304,Khaine's Blessing,,0,0,0,FALSE,0,0,0,,,22702
+9595,4194304,Khaine's Bounty,,1,3,0,FALSE,0,0,0,,,22702
+9557,4194304,Khaine's Embrace,,1,0,0,FALSE,1,0,0,,,10945
+9584,4194304,Khaine's Imbuement,,0,0,0,FALSE,0,0,0,,,22708
+9553,4194304,Khaine's Invigoration,,1,0,35,FALSE,1,5,150,,,10940
+9579,4194304,Khaine's Refreshment,,1,13,0,TRUE,3,13,0,,,11002
+9573,4194304,Khaine's Vigor,,1,9,0,FALSE,0,10,0,,,10956
+9607,4194304,Khaine's Withdrawal,,0,0,0,FALSE,0,60,0,,,10989
+9551,4194304,Lacerate,,2,0,30,FALSE,0,5,5,,,10938
+9605,4194304,Life's End,,0,0,0,FALSE,0,60,0,,,10962
+9586,4194304,Murderous Intent,,0,0,0,FALSE,0,0,0,,,22704
+9556,4194304,Patch Wounds,,0,0,0,FALSE,0,5,150,,,10944
+9581,4194304,Pillage Essence,,3,13,30,FALSE,0,10,5,,,11004
+9590,4194304,Potent Covenants,,0,0,0,FALSE,0,0,0,,,22694
+9554,4194304,Rend Soul,,3,0,0,TRUE,3,8,5,,,10941
+9548,4194304,Restore Essence,,1,0,0,FALSE,1,0,150,,,10935
+9596,4194304,Restored Motivation,,1,7,0,FALSE,0,0,0,,,22709
+9580,4194304,Sanguinary Extension,,2,5,30,FALSE,0,5,5,,,11003
+9550,4194304,Soul Infusion,,0,0,0,FALSE,0,0,150,,,10937
+320,4194304,Soul Reaping Passive Build,,0,0,0,FALSE,0,0,0,,,10956
+9574,4194304,Soul Shielding,,1,5,0,FALSE,0,60,0,,,10957
+9558,4194304,"Stand, Coward!",,0,0,0,FALSE,3,6,100,,,10946
+9591,4194304,Terrifying Aura,,2,7,0,FALSE,0,0,0,,,22706
+9555,4194304,Terrifying Vision,,0,0,20,FALSE,0,15,100,,,10942
+9616,4194304,Thousand and One Dark Blessings,,1,15,0,FALSE,0,60,0,,,10965
+9562,4194304,Transfer Essence,,3,0,35,FALSE,0,0,5,,,10961
+9589,4194304,Transferred Focus,,0,0,0,FALSE,0,0,0,,,22706
+9564,4194304,Uncaring Dismissal,,0,0,40,FALSE,0,60,0,,,10952
+9606,4194304,Universal Confusion,,0,0,0,FALSE,0,60,0,,,10963
+9617,4194304,Vision of Torment,,2,15,0,FALSE,0,60,5,,,10966
+9577,4194304,Warding Strike,,3,5,30,FALSE,0,5,5,,,10960
+9576,4194304,Wracking Agony,,2,13,30,FALSE,0,10,5,,,10959

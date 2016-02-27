@@ -1,0 +1,59 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+8082,256,Absolution,,3,0,35,FALSE,0,0,30,,,8051
+8138,256,Atonement,,3,3,0,FALSE,0,0,0,,,22708
+8089,256,Blessed Bullets of Cleansing,,3,0,20,FALSE,0,0,0,,,7974
+8099,256,Blessed Bullets of Confession,,2,0,20,FALSE,0,0,0,,,7970
+8084,256,Blessed Bullets of Purity,,1,0,20,FALSE,0,0,0,,,8045
+8126,256,"Blood, Faith, And Fire",,0,0,0,FALSE,0,0,0,,,22696
+14426,256,Booby Trap,,0,0,0,FALSE,0,30,65,,,23401
+8091,256,Burn Armor,,1,0,0,FALSE,0,0,5,,,7971
+8116,256,Burn Away Lies,,3,13,35,FALSE,0,10,5,,,8049
+8093,256,"Burn, Heretic!",,2,0,35,FALSE,0,10,5,,,8046
+8086,256,Confess!,,2,0,35,FALSE,0,10,5,,,7976
+8094,256,Declare Anathema,,0,0,0,FALSE,0,30,5,,,7981
+8152,256,Divine Blast,,1,15,0,FALSE,0,60,0,,,7980
+8110,256,Dragon Gun,,1,13,35,FALSE,0,10,30,,,8047
+8136,256,Encourage Confession,,0,0,0,FALSE,0,0,0,,,22704
+8153,256,Excommunicate,,2,15,0,FALSE,0,60,100,,,7978
+8113,256,Exit Wound,,2,13,35,FALSE,0,10,30,,,7982
+8146,256,Exoneration,,0,0,0,FALSE,0,60,0,,,7988
+8154,256,Expurgation,,3,15,0,FALSE,0,60,0,,,7989
+8137,256,Fanatical Cleansing,,3,7,0,FALSE,0,0,0,,,22709
+8098,256,Fanatical Zeal,,3,0,0,FALSE,0,0,5,,,7983
+14428,256,Faultfinder,,0,0,0,FALSE,0,30,65,,,23408
+8092,256,Feinted Positioning,,0,0,25,FALSE,0,60,65,,,7972
+8083,256,Fervor,,2,0,35,FALSE,0,0,5,,,8052
+8121,256,Flowing Accusations,,0,0,0,FALSE,0,0,0,,,22710
+8134,256,Full Confession,,2,3,0,FALSE,0,0,0,,,22701
+8088,256,Get Thee Behind Me!,,0,0,20,FALSE,0,30,0,,,7968
+8090,256,Incognito,,0,0,0,FALSE,2,30,0,,,7985
+269,256,Inquisition,,0,0,0,FALSE,0,0,0,,,7979
+8120,256,Inquisitor's Fury,,0,0,0,FALSE,0,0,0,,,22708
+8124,256,Last Rites,,0,0,0,FALSE,0,0,0,,,22706
+8123,256,Penetrating Barbs,,0,0,0,FALSE,0,0,0,,,22694
+8115,256,Pistol Whip,,3,9,25,FALSE,0,20,5,,,7984
+8135,256,Prolonged Confession,,2,7,0,FALSE,0,0,0,,,22694
+8127,256,Protection from Heresy,,2,11,0,FALSE,0,0,0,,,22709
+8112,256,Punish The False,,2,9,30,FALSE,0,10,5,,,7977
+8081,256,Razor Strike,,1,0,40,FALSE,0,0,5,,,7965
+8109,256,Repel Blasphemy,,1,9,40,FALSE,0,30,5,,,8050
+8147,256,Reversal of Fortune,,0,0,0,FALSE,0,60,0,,,7987
+8122,256,Righteous Steel,,0,0,0,FALSE,0,0,0,,,22702
+8132,256,Sanctified Bullets,,1,7,0,FALSE,0,0,0,,,22706
+8111,256,Seal of Destruction,,2,5,25,FALSE,0,60,0,,,7978
+8097,256,Seeker's Blade,,1,0,45,FALSE,0,10,5,,,8053
+8131,256,Seeker's Triumph,,1,3,0,FALSE,0,0,0,,,22701
+8101,256,Sever Blessing,,0,0,25,FALSE,0,5,5,,,2497
+8108,256,Shroud of Magnus,,1,5,25,FALSE,0,60,0,,,7973
+8095,256,Sigil of Sigmar,,0,0,45,FALSE,0,60,0,,,8011
+8100,256,Silence The Heretic,,3,0,25,FALSE,0,20,5,,,7979
+8080,256,Snap Shot,,0,0,20,FALSE,1,0,65,,,7966
+8096,256,Sudden Accusation,,2,0,0,FALSE,0,0,5,,,7969
+8133,256,Sweeping Razor,,1,11,0,FALSE,0,0,0,,,22694
+8085,256,Torment,,3,0,35,FALSE,0,0,5,,,7975
+8087,256,Trial By Pain,,1,0,15,TRUE,3,0,30,,,7967
+8114,256,Van Horstmann's Speculum,,3,5,25,FALSE,0,60,0,,,8048
+8125,256,Vindication,,0,0,0,FALSE,0,0,0,,,22703
+8139,256,Vitriolic Judgement,,3,11,0,FALSE,0,0,0,,,22704
+341,256,Witch Hunter Inquisition,,0,0,0,FALSE,0,0,0,,,7979
+8148,256,Witchfinder's Protection,,0,0,0,FALSE,0,60,0,,,7986

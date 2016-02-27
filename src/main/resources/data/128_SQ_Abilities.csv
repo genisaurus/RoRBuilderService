@@ -1,0 +1,62 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+1870,128,"'Ere, Squiggy!",,2,3,0,FALSE,0,0,0,,,22708
+1867,128,Aimin' Quickly,,1,3,0,FALSE,0,0,0,,,22704
+1860,128,All By Meself,,0,0,0,FALSE,0,0,0,,,22697
+1,128,Ard Noggin,,2,0,35,FALSE,0,0,5,,,2626
+1885,128,Arrer O' Mork,,3,15,0,FALSE,0,60,0,,,2624
+1850,128,Bad Gas!,,2,9,45,FALSE,0,20,0,,,2608
+1854,128,Behind Ya!,,3,13,25,FALSE,0,10,65,,,2620
+1851,128,Big Bouncin!,,2,13,20,TRUE,3,8,0,,,2508
+2,128,Big Claw,,2,0,25,FALSE,0,5,5,,,2601
+3,128,Bounce,,2,0,30,FALSE,0,20,5,,,2602
+1839,128,Choking Arrer,,1,0,30,FALSE,1,30,100,,,2595
+1869,128,Clever Shootin',,1,11,0,FALSE,0,0,0,,,22697
+1872,128,Clever Stabbin',,2,11,0,FALSE,0,0,0,,,22701
+1829,128,Cut Ya!,,2,0,25,FALSE,0,0,5,,,2591
+1863,128,Da Smell Don't Bother Me,,0,0,0,FALSE,0,0,0,,,22709
+1874,128,Da Waaagh Iz Strong,,3,7,0,FALSE,0,0,0,,,22694
+1827,128,Don't Eat Me,,0,0,20,FALSE,0,15,100,,,2477
+1838,128,Don't Hit Me!,,2,0,30,FALSE,0,10,5,,,2615
+1837,128,Drop That!!,,2,0,20,FALSE,0,20,150,,,2598
+1833,128,Explodin' Arrer,,1,0,40,FALSE,0,10,100,,,2590
+1828,128,Farty Squig,,0,0,55,FALSE,0,20,100,,,2484
+1848,128,Finish 'em Off,,1,13,30,FALSE,0,10,100,,,2614
+1843,128,Gas Squig,,0,0,55,FALSE,2,0,0,,,2507
+1824,128,Git Em!,,2,0,40,FALSE,0,10,5,,,2478
+1859,128,He's A Biggun',,0,0,0,FALSE,0,0,0,,,22702
+1842,128,Horned Squig,,0,0,55,FALSE,2,0,0,,,2488
+1868,128,I Feelz Yer Pain,,1,7,0,FALSE,0,0,0,,,22706
+1862,128,I Got Lots,,0,0,0,FALSE,0,0,0,,,22694
+1849,128,Indigestion,,2,5,20,FALSE,0,10,0,,,2629
+5,128,KABOOM!,,2,0,35,FALSE,0,0,0,,,2604
+1834,128,Lots o' Arrers,,1,0,30,TRUE,3,8,100,,,4529
+1883,128,Lots Of Shootin',,1,15,0,FALSE,0,60,100,,,2622
+1835,128,Not So Fast!,,3,0,30,FALSE,1,10,65,,,2596
+1857,128,Pick On Yer Own Size,,0,0,0,FALSE,0,0,0,,,22702
+1821,128,Plink,,1,0,40,FALSE,2,0,100,,,2538
+1847,128,Poison Arrer,,1,9,30,FALSE,3,5,100,,,2589
+1853,128,Rotten Arrer,,3,9,35,FALSE,0,0,65,,,2619
+1826,128,Run 'n Shoot,,3,0,25,FALSE,1,0,65,,,2593
+1852,128,Run Away!,,3,5,45,FALSE,0,45,100,,,2618
+1858,128,Sharp Toofs,,0,0,0,FALSE,0,0,0,,,22697
+1861,128,Sharpened Arrers,,0,0,0,FALSE,0,0,0,,,22697
+1840,128,Shoot Thru Ya,,3,0,40,FALSE,2,0,0,,,2489
+1875,128,Shootin' Wif Da Wind,,3,11,0,FALSE,0,0,0,,,22709
+1846,128,Shrapnel Arrer,,1,5,30,FALSE,0,5,100,,,2612
+1871,128,Sneaky Stabbin,,2,7,0,FALSE,0,0,0,,,22701
+1877,128,Soothin' Mushroom Wrap,,0,0,0,FALSE,0,60,0,,,2482
+1844,128,Spiked Squig,,0,0,55,FALSE,2,0,0,,,2483
+1873,128,Splinterin' Arrers,,3,3,0,FALSE,0,0,0,,,22697
+1830,128,Squig Armor,,2,0,55,FALSE,0,10,0,,,2599
+1832,128,Squig Frenzy,,0,0,35,FALSE,0,180,100,,,2594
+1878,128,Squig Goo,,0,0,0,FALSE,0,60,100,,,4506
+1879,128,Squigbeast,,0,0,0,FALSE,0,60,100,,,2621
+1820,128,Stabbity,,2,0,35,FALSE,0,0,5,,,2540
+1831,128,Sticky Squigz,,0,0,0,FALSE,0,30,0,,,2592
+1825,128,Stop Runnin!,,3,0,25,FALSE,1,20,65,,,2617
+1856,128,Strength In Numbas,,0,0,0,FALSE,0,0,0,,,22708
+1841,128,Summon Squig,,0,0,55,FALSE,2,0,0,,,2475
+1836,128,Tastes Like Chicken,,0,0,15,FALSE,0,60,100,,,2597
+1823,128,What Blocka?,,1,0,40,FALSE,2,5,100,,,2613
+1884,128,Wind Up Da Waaagh,,2,15,0,FALSE,0,60,0,,,2623
+1822,128,Yer Bleedin'!,,3,0,25,FALSE,0,0,65,,,2625

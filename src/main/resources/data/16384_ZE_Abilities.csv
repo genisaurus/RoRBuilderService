@@ -1,0 +1,58 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+8571,16384,Aethyric Shock,,1,13,25,FALSE,0,20,100,,,5236
+8590,16384,Blessing of Chaos,,0,0,0,FALSE,0,0,0,,,22704
+8573,16384,Boon of Tzeentch,,1,9,30,FALSE,2,5,100,,,5242
+8559,16384,Breath of Tzeentch,,0,0,40,FALSE,0,60,0,,,5237
+8588,16384,By Tzeentch's Will!,,0,0,0,FALSE,0,0,0,,,22714
+8596,16384,Changer's Touch,,1,11,0,FALSE,0,0,0,,,22709
+8578,16384,Chaotic Agitation,,3,9,13,TRUE,6,13,80,,,5110
+8621,16384,Chaotic Blur,,0,0,20,FALSE,0,15,100,,,5116
+8595,16384,Chaotic Force,,1,3,0,FALSE,0,0,0,,,22708
+8561,16384,Daemonic Fortitude,,1,0,35,FALSE,0,180,100,,,5240
+8549,16384,Dark Medicine,,2,0,55,FALSE,1,0,150,,,5113
+8563,16384,Demon Spittle,,3,0,45,FALSE,0,5,0,,,5158
+8589,16384,Drink Deeply,,0,0,0,FALSE,0,0,0,,,22706
+8562,16384,Dust of Pandemonium,,3,0,65,FALSE,3,0,0,,,5232
+8566,16384,Elixir Of Dark Blessings,,1,0,45,FALSE,2,0,150,,,5103
+8622,16384,Embrace the Warp,,0,0,35,FALSE,0,180,0,,,5260
+8587,16384,Empowered Alteration,,0,0,0,FALSE,0,0,0,,,22708
+8591,16384,Endless Gifts,,0,0,0,FALSE,0,0,0,,,22694
+8606,16384,Eye of Sheerian,,0,0,0,FALSE,0,60,0,,,5134
+8569,16384,Flash of Chaos,,1,0,15,FALSE,0,0,150,,,5154
+8554,16384,Glimpse of Chaos,,0,0,25,FALSE,0,5,150,,,5235
+8550,16384,Harbinger of Doom,,0,0,0,FALSE,0,20,150,,,5108
+8599,16384,Lashing Waves,,2,3,0,FALSE,0,0,0,,,22694
+8557,16384,Leaping Alteration,,3,0,40,FALSE,1,10,150,,,5250
+8594,16384,Manipulation,,1,7,0,FALSE,0,0,0,,,22703
+8551,16384,Mark of Daemonic Fury,,1,0,25,FALSE,0,0,100,,,5140
+8567,16384,Mark of Remaking,,0,0,25,FALSE,0,600,100,,,5239
+8556,16384,Mark of the Spell Destroyer,,2,0,25,FALSE,0,0,100,,,5136
+8560,16384,Mark of the Vortex,,3,0,25,FALSE,0,0,100,,,5137
+8575,16384,Mirror of Madness,,2,13,40,FALSE,2,10,100,,,5137
+8552,16384,Rite of Agony,,3,0,40,FALSE,0,5,0,,,5231
+8572,16384,Ritual of Innervation,,1,5,35,FALSE,0,30,80,,,5241
+8577,16384,Ritual of Lunacy,,3,5,35,FALSE,0,30,80,,,5162
+8574,16384,Ritual of Superiority,,2,5,35,FALSE,0,30,80,,,5119
+8548,16384,Scourge,,1,0,25,FALSE,2,0,100,,,5144
+8586,16384,Scourged Warping,,0,0,0,FALSE,0,0,0,,,22709
+8576,16384,Storm of Ravens,,2,9,20,TRUE,6,11,100,,,5243
+8607,16384,Suppressing The Fragile Unbelievers,,0,0,0,FALSE,0,60,0,,,5135
+8600,16384,Sweeping Disgorgement,,3,3,0,FALSE,0,0,0,,,22704
+8601,16384,Swirling Vortex,,3,7,0,FALSE,0,0,0,,,22708
+8597,16384,Transference,,2,11,0,FALSE,0,0,0,,,22697
+8611,16384,Tzeentchs Shielding,,1,15,0,FALSE,0,60,0,,,5245
+8555,16384,Tzeentch Shall Remake You,,0,0,20,FALSE,3,6,100,,,5233
+8558,16384,Tzeentch's Cordial,,0,0,30,FALSE,0,0,150,,,5142
+8568,16384,Tzeentch's Cry,,1,0,35,FALSE,0,5,100,,,5160
+8602,16384,Tzeentch's Grip,,3,11,0,FALSE,0,0,0,,,22706
+8565,16384,Tzeentch's Lash,,2,0,20,FALSE,1,30,100,,,5238
+8598,16384,Tzeentch's Refreshment,,2,7,0,FALSE,0,0,0,,,22708
+8612,16384,Tzeentch's Scream,,2,15,0,FALSE,0,60,0,,,5246
+8605,16384,Tzeentch's Talon,,0,0,0,FALSE,0,60,100,,,5118
+8564,16384,Veil of Chaos,,2,0,35,FALSE,0,20,100,,,5244
+8553,16384,Warp Reality,,2,0,30,FALSE,0,0,100,,,5268
+8584,16384,Warping The Spirit,,0,0,0,FALSE,0,0,0,,,22706
+8585,16384,Waves of Chaos,,0,0,0,FALSE,0,0,0,,,22704
+8579,16384,Wind of Insanity,,3,13,20,FALSE,0,26,0,,,5149
+8613,16384,Windblock,,3,15,0,FALSE,0,60,100,,,5247
+476,16384,Zealot's Badge,,0,0,0,FALSE,0,0,0,,,99

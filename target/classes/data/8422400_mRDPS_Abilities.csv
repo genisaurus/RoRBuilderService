@@ -1,0 +1,11 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+569,8422400,Close Quarters,,0,0,0,FALSE,0,0,0,,,22694
+568,8422400,Devour Energy,,0,0,0,FALSE,0,0,0,,,22704
+563,8422400,Endless Knowledge,,0,0,0,FALSE,0,0,0,,,22695
+674,8422400,Focused Mind,,0,0,0,FALSE,0,60,0,,,23153
+670,8422400,Mage Bolt,,0,0,0,FALSE,0,60,100,,,23167
+673,8422400,Misdirection,,0,0,0,FALSE,0,60,0,,,23168
+671,8422400,Scintillating Energy,,0,0,0,FALSE,0,60,100,,,23169
+669,8422400,Siphon Power,,0,0,0,FALSE,0,60,100,,,23170
+567,8422400,Sleight of Hand,,0,0,0,FALSE,0,0,0,,,22708
+672,8422400,Unleash the Winds,,0,0,0,FALSE,0,60,5,,,23171

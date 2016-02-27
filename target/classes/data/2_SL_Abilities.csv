@@ -1,0 +1,69 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+1490,2,Accuracy,Tactic,3,7,0,FALSE,0,0,0,Defensive,Flurry will now hit up to 9 targets within 30 feet in front of you and the base damage is reduced by 20%,22702
+1445,2,Break Loose,Ability,0,0,45,FALSE,0,60,0,Defensive,"Your mounting rage allows you to firm your Dwarven resolve and remove all roots and snares from you. For the next 10 seconds, roots and snares will have no effect on you.",4673
+1487,2,Breaking Point,Tactic,2,11,0,FALSE,0,0,0,Defensive,"Increases your chance to critically hit with Path of the Giantslayer abilities by 15%, but increases the chance that you will be critically hit by 10%",22702
+1440,2,Charge!,Ability,0,0,0,FALSE,0,30,0,Defensive,"You charge into the thick of battle, increasing your movement speed by 50% for 7 seconds. If you use any abilities, this effect will immediately end.",4668
+1460,2,Cleft In Twain,Ability,2,5,25,FALSE,0,0,5,Ailment,"You attack your target with a devastating blow, dealing [1] damage over 5 seconds",4682
+1500,2,Deadly Determination,Morale2,0,0,0,FALSE,0,60,0,Defensive,"You deal an additional [1] damage, whenever you use an ability. This effect will fade after you damage 8 targets.",4692
+1439,2,Deathblow,Ability,2,0,40,FALSE,0,30,5,Damaging,"You unleash a powerful blow, dealing [1] damage.
+
+If you are Furious, gains a 75% damage bonus instead of the 25% bonus.",4667
+1434,2,Deep Wound,Ability,1,9,15,FALSE,0,10,5,Ailment,"You slash at your enemy, dealing [1] damage and reducing the value of incoming healing on them by 50% for 10 seconds.",4662
+1485,2,Determination,Tactic,2,3,0,FALSE,0,0,0,Defensive,"If an Exhaustive Blow is defended, your abilities cost 0 Action Points for the next 6 seconds.",22709
+1461,2,Devastate,Ability,2,9,20,FALSE,0,10,5,Ailment,"You devastate your target, dealing [1] damage and reducing your target's Wounds by [2] for 10 seconds.
+
+If you are Furious, gain a 75% damage bonus instead of the 25% bonus.",4683
+1441,2,Distracting Roar,Ability,0,0,50,FALSE,0,30,0,Ailment,"All enemies within 30 feet are detaunted, making them hate you less and reducing the damage they deal against you to 50% for 5 seconds. During this time, all your attacks will cause enemies to hate you 25% less than normal. If you attack anyone you have detaunted, the effect will immediately end.",4669
+1494,2,Doom Seeker,Morale4,3,15,0,FALSE,0,60,0,Defensive,You deal [1] damage and knock down targets within 30 feet for 3 seconds.,4689
+1479,2,Embrace the Pain,Tactic,0,0,0,FALSE,0,0,0,Defensive,"Each time you take critical damage, your Strength is increased by [1] for 10 seconds.",22711
+1438,2,Enervating Blow,Ability,1,0,25,FALSE,0,30,5,Ailment,"You deal an exhaustive blow that does [1] damage and reduces your target's chance to critically hit by 100% for 10 seconds.
+
+If you are Furious, gains a 75% damage bonus instead of the 25% bonus.",4666
+1446,2,Even the Odds,Ability,3,0,30,FALSE,0,60,0,Enchantment,"Your Toughness is increased by [1] for each enemy within 20 feet, up to a maximum of 6 enemies. This effect will fade after 10 seconds.",4674
+1483,2,Fierce Might,Tactic,1,7,0,FALSE,0,0,0,Defensive,"As you get closer to death and redemption, your rage fills you with power. Your critical bonus damage is increased by 10% for every 10% of hit points that you have lost.",22694
+1458,2,Fierceness,Ability,1,0,25,FALSE,0,60,0,Enchantment,"For the next 10 seconds, group members within 100 feet will have their Weapon Skill increased by [1] each time that you hit and enemy, and your Initiative will be reduced by [2]. This effect can be stacked up to three times.",4680
+1435,2,Flurry,Ability,3,0,30,FALSE,0,0,0,Damaging,"You wildly swing in front of you, dealing between [1] and [2] damage to up to three enemies within 25 feet.",4663
+1476,2,Got No Time For You,Tactic,0,0,0,FALSE,0,0,0,Defensive,All attacks will generate 25% less hate.,22709
+1495,2,Grievous Harm,Morale3,0,0,0,FALSE,0,60,5,Defensive,You deal [1] damage and debuff the target's outgoing damage to 75% for 10 seconds.,4690
+1442,2,Gudrun's Warcry,Ability,0,0,15,FALSE,0,60,0,Enchantment,Your groupmates are inspired by your eagerness to fight. Your group's abilities cost 25% fewer Action Points for 20 seconds while within 100 feet of you.,4670
+1473,2,Hastened Punishment,Tactic,0,0,0,FALSE,0,0,0,Defensive,Cooldowns on your Exhaustive Attacks are reduced by 25%,22702
+1474,2,Honor Restored,Tactic,0,0,0,FALSE,0,0,0,Defensive,All your Exhaustive Attacks have a 25% chance to heal you for [1] health.,22706
+1443,2,Incapacitate,Ability,2,0,25,FALSE,0,20,5,Damaging,"You render an incapacitating blow to your target, dealing [1] damage and knocking them down for 3 seconds. This attack is undefendable.",4671
+1465,2,Inevitable Doom,Ability,3,13,45,FALSE,0,5,5,Ailment,"You deal [1] damage to your target and force them to share your doomed fate, inflicting a dark rune on them. The rune will explode every 2 seconds and will keep exploding for anywhere between 4 seconds to 8 seconds, dealing [2] damage to all enemies within 30 feet of them.",4687
+1501,2,Looks Like a Challenge,Morale4,2,15,0,FALSE,0,60,0,Defensive,You deal [1] damage to targets within 30 feet and debuff incoming healing by 50% for 10 seconds.,4693
+1463,2,No Escape,Ability,3,5,35,FALSE,0,30,0,Ailment,"A crippling blow, dealing [1] damage to all enemies within 30 feet. The victims will all become snared, reducing their run speed anywhere from 10% and 40% for 5 seconds.
+
+If you are Furious, gains a 75% damage bonus instead of the 25% bonus.",4685
+1444,2,Numbing Strike,Ability,0,0,25,FALSE,0,60,5,Ailment,"You land a numbing blow, your target's chance to block or parry is reduced by 50% for 10 seconds.",4672
+1436,2,Onslaught,Ability,3,0,30,FALSE,0,10,0,Ailment,"You swipe at the enemies in front of you, dealing [1] damage over 9 seconds to enemies within 40 feet.",4664
+1482,2,Power Through,Tactic,1,3,0,FALSE,0,0,0,Defensive,Exhaustive Blows will no longer remove your Rage.,22711
+1449,2,Precarious Assault,Ability,2,0,30,FALSE,0,0,5,Damaging,"A reckless attack which deals [1] damage to your target, but leaves you off-balance. For the next 10 seconds, your chance to be critically hit is increased by 5%.
+
+If you are Furious, gains a 75% damage bonus instead of the 25% bonus.",4677
+1433,2,Pulverizing Strike,Ability,2,0,35,FALSE,0,0,5,Ailment,A furious slash that deals [1] damage and reduces your target's Toughness by [2] for 9 seconds. This effect is stackable up to three times.,4661
+1477,2,Push For More,Tactic,0,0,0,FALSE,0,0,0,Defensive,Your autoattack speed is increased by 25% while you are Furious and 50% while you are Berserk.,22696
+1459,2,Rampage,Ability,1,5,30,FALSE,0,30,5,Enchantment,"For the next 10 seconds, your attacks can't be Blocked or Parried. If you are Furious, increase duration to 20 seconds.",4681
+1448,2,Reckless Gamble,Ability,2,0,0,FALSE,0,60,0,Damaging,"While this ability is active, your melee attacks will deal an additional [1] damage, but you will also suffer [2] damage each time.",4676
+1431,2,Relentless Strike,Ability,1,0,30,FALSE,0,0,5,Ailment,"You strike at your opponent, immediately inflicting [1] damage. The wound continues to bleed for [2] damage for the next 3 seconds.",4659
+1450,2,Retribution,Ability,3,0,15,TRUE,10,60,0,Damaging,"For the next 10 seconds, each time you are hit with an attack you will do [1] damage back to the attacker. This effect can only be triggered once every second.",4678
+1457,2,Rune of Absorption,Ability,1,13,15,TRUE,5,25,5,Damaging,A merciless string of attacks that repeatedly hit your target for [1] damage up to 6 times over the next 5 seconds. You will be healed for all the damage that this ability deals.,4679
+1489,2,Runic Blessings,Tactic,3,11,0,FALSE,0,0,0,Defensive,"Upon falling in battle, you have a 25% chance of immediately getting back in the fight at 25% health and unleashing a blow to all enemies within 40 feet and dealing [1] damage.",22694
+1464,2,Shatter Limbs,Ability,3,9,45,FALSE,0,20,0,Ailment,"You brutally crush all enemies within 30 feet, dealing [1] damage. Your merciless display of savagery intimidates your enemy, increasing their cooldown timers by 5 seconds for 10 seconds.",4686
+1484,2,Short Temper,Tactic,1,11,0,FALSE,0,0,0,Defensive,"While you are in the Berserk state, all your cooldowns are reduced by 5 seconds.",22708
+1475,2,Slaughter,Tactic,0,0,0,FALSE,0,0,0,Defensive,Your Action Point costs are reduced by 5 points while Furious and 10 points while Berserk.,22704
+1432,2,Slow Down,Ability,1,0,25,FALSE,0,10,5,Ailment,You deal [1] damage and reduce the movement speed of your enemy by 40% for 5 seconds.,4660
+1462,2,Spellbreaker,Ability,2,13,20,FALSE,0,0,5,Damaging,"A shattering strike which removes one damage-absorbing effect and deals [1] damage to the target.
+
+If you are Furious, gains a 75% damage bonus instead of the 25% bonus.",4684
+1437,2,Spine Crusher,Ability,1,0,30,FALSE,0,0,5,Damaging,You deal [1] damage to your enemy.,4665
+1488,2,Takin' Chances,Tactic,3,3,0,FALSE,0,0,0,Defensive,"While you are Furious, you regain [1] health every 4 seconds.
+While you are Berserk, you regain [2] health every 4 seconds.",22704
+1478,2,The Bigger They Are...,Tactic,0,0,0,FALSE,0,0,0,Defensive,Reduces the cost of Spine Crusher and Deathblow by 25%.,22694
+1430,2,Throw Axe,Ability,0,0,20,FALSE,1,0,65,Damaging,A basic throwing attack that inflicts [1] damage.,4658
+1499,2,Unleashed Power,Morale4,1,15,0,FALSE,0,60,0,Defensive,"You unleash a wave of power, causing groupmates' attacks to deal an additional [1] damage for 10 seconds while within 100 feet of you.",4691
+1493,2,Untouchable,Morale1,0,0,0,FALSE,0,60,0,Defensive,Your chance to defend attacks is increased by 100% for 5 seconds.,4688
+1486,2,Violent Impacts,Tactic,2,7,0,FALSE,0,0,0,Defensive,"Any time you use an Exhaustive Blow, you have a 50% chance to regain 25% of your Rage.",22711
+1472,2,Wild Gambit,Tactic,0,0,0,FALSE,0,0,0,Defensive,"Increased your Strength and Weapon Skill by [1], but reduces your Toughness by [2]",22702
+1447,2,Wild Swing,Ability,3,0,55,FALSE,0,5,0,Damaging,"You wildly attack everything around you, each enemy that you hit within 30 feet suffers anywhere from [1] to [2] damage.
+
+If you are Furious, gains a 75% damage bonus instead of the 25% bonus.",4675

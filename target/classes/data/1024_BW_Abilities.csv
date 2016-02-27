@@ -1,0 +1,58 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+14412,1024,Abate War Engine,,0,0,0,FALSE,0,30,100,,,23400
+8187,1024,Annihilate,,3,5,15,TRUE,3,8,0,,,7958
+8189,1024,Backdraft,,3,13,25,FALSE,0,20,0,,,7936
+8165,1024,Boiling Blood,,2,0,25,FALSE,0,10,100,,,8015
+8206,1024,Burn Through,,1,11,0,FALSE,0,0,0,,,22703
+8173,1024,Burning Iron,,1,0,35,FALSE,1,20,100,,,8019
+8175,1024,Burnout,,0,0,0,FALSE,0,20,0,,,7957
+8167,1024,Cauterize,,0,0,25,FALSE,0,10,0,,,8016
+8174,1024,Choking Smoke,,3,0,25,FALSE,0,30,80,,,8020
+299,1024,Combustion,,0,0,0,FALSE,0,0,0,,,7936
+8222,1024,Conflagration of Doom,,3,15,0,FALSE,0,60,100,,,7942
+8197,1024,Crown of Fire,,0,0,0,FALSE,0,0,0,,,22713
+8170,1024,Detonate,,2,0,40,FALSE,0,10,80,,,7902
+8199,1024,Distracting Fires,,0,0,0,FALSE,0,0,0,,,22704
+8204,1024,Draining Burn,,1,7,0,FALSE,0,0,0,,,22708
+8200,1024,Embrace The Flames,,0,0,0,FALSE,0,0,0,,,22703
+14410,1024,Enhance War Engine,,0,0,0,FALSE,0,30,100,,,23407
+8210,1024,Explosive Force,,3,3,0,FALSE,0,0,0,,,22696
+8198,1024,Fan The Flames,,0,0,0,FALSE,0,0,0,,,22709
+8166,1024,Fiery Blast,,3,0,40,FALSE,3,0,80,,,7934
+8212,1024,Fiery Reserves,,3,7,0,FALSE,0,0,0,,,22709
+8168,1024,Fire Cage,,0,0,25,FALSE,0,30,0,,,7924
+8159,1024,Fireball,,1,0,30,FALSE,3,0,100,,,7933
+8183,1024,Fireball Barrage,,1,13,20,TRUE,3,13,80,,,8021
+8171,1024,Flame Breath,,3,0,35,FALSE,0,10,0,,,8018
+8161,1024,Flame Shield,,2,0,30,FALSE,0,0,0,,,7911
+8164,1024,Flames of Rhuin,,1,0,30,FALSE,0,0,0,,,7910
+8196,1024,Flashfire,,0,0,0,FALSE,0,0,0,,,22694
+8207,1024,Fuel To The Fire,,2,3,0,FALSE,0,0,0,,,22694
+8201,1024,Fueled From Within,,0,0,0,FALSE,0,0,0,,,22704
+8181,1024,Funnel Power,,1,5,0,FALSE,0,60,0,,,7919
+8217,1024,Heart of Fire,,0,0,0,FALSE,0,60,0,,,8028
+14411,1024,Hex War Engine,,0,0,0,FALSE,0,30,100,,,23410
+8158,1024,Ignite,,2,0,35,FALSE,0,0,100,,,7913
+8209,1024,Ignition,,2,7,0,FALSE,0,0,0,,,22704
+8195,1024,Lingering Fires,,0,0,0,FALSE,0,0,0,,,22703
+8215,1024,Magic Dart,,0,0,0,FALSE,0,60,100,,,8026
+8179,1024,Meltdown,,0,0,0,FALSE,1,5,100,,,4630
+8182,1024,Nova,,1,9,40,FALSE,0,10,100,,,7936
+8184,1024,Playing With Fire,,2,5,30,FALSE,0,30,100,,,8022
+8194,1024,Power From The Ashes,,0,0,0,FALSE,0,0,0,,,22708
+8169,1024,Pyroclastic Surge,,1,0,30,FALSE,2,0,100,,,8017
+8177,1024,Rain of Fire,,3,0,10,TRUE,10,20,80,,,7939
+8216,1024,Ruin And Destruction,,0,0,0,FALSE,0,60,0,,,8027
+8163,1024,Scorched Earth,,3,0,0,FALSE,0,0,0,,,8014
+8160,1024,Sear,,1,0,40,FALSE,1,5,100,,,7955
+8205,1024,Searing Vitality,,1,3,0,FALSE,0,0,0,,,22706
+8172,1024,Shield of Aqshy,,0,0,20,FALSE,0,30,0,,,8012
+8176,1024,Slow Boil,,2,0,35,FALSE,0,0,100,,,7940
+8162,1024,Smoke Screen,,0,0,20,FALSE,0,15,100,,,8013
+8208,1024,Smoldering Embers,,2,11,0,FALSE,0,0,0,,,22704
+8188,1024,Spreading Flames,,3,9,30,FALSE,0,20,80,,,7956
+8186,1024,"Stop, Drop, And Roll",,2,13,30,FALSE,0,20,100,,,8024
+8220,1024,The Burning Head,,1,15,0,FALSE,0,60,100,,,7937
+8221,1024,Wall of Fire,,2,15,0,FALSE,0,60,0,,,7941
+8211,1024,Wildfire,,3,11,0,FALSE,0,0,0,,,22703
+8185,1024,Withering Heat,,2,9,13,TRUE,6,11,100,,,8023

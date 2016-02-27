@@ -1,0 +1,27 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                             http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         metadata-complete="false"
+         version="3.1" >
+  
+	<context-param>
+    	<param-name>db.url</param-name>
+    	<param-value>jdbc:h2:mem:abilitydb;LOG=0;UNDO_LOG=0;INIT=RUNSCRIPT FROM 'classpath:scripts/tables.sql'\;RUNSCRIPT FROM 'classpath:scripts/import.sql'</param-value>
+	</context-param>
+	
+	<context-param>
+    	<param-name>db.user</param-name>
+    	<param-value>sa</param-value>
+	</context-param>
+
+	<context-param>
+    	<param-name>db.password</param-name>
+    	<param-value>sa</param-value>
+	</context-param>
+	
+	<listener>
+    	<listener-class>org.h2.server.web.DbStarter</listener-class>
+	</listener>
+	
+</web-app>

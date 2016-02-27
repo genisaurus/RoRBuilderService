@@ -1,0 +1,54 @@
+abilityID,classID,name,type,masteryPathID,masteryRank,apCost,channeled,castTime,cooldown,range,buffType,tooltipText,iconID
+1771,32,Bleed Em Out,,2,5,45,FALSE,0,0,5,,,2654
+1780,32,Bloodlust,,0,0,0,FALSE,0,0,0,,,22706
+1769,32,Bring Da Pain!,,1,0,25,FALSE,0,60,5,,,2652
+1762,32,Bring It On,,3,0,15,TRUE,10,60,0,,,2650
+1746,32,Can't Stop Da Chop,,1,9,15,FALSE,0,10,5,,,2634
+1752,32,Charge!,,0,0,0,FALSE,0,30,0,,,2640
+1775,32,Chop Fasta!,,3,9,45,FALSE,0,120,0,,,2658
+1784,32,Chop Til You Drop,,0,0,0,FALSE,0,0,0,,,22707
+1758,32,Come and Git It!,,3,0,30,FALSE,0,60,0,,,2646
+1799,32,Dat Tickles!,,0,0,0,FALSE,0,60,0,,,2660
+1744,32,Don't Go Nowhere,,1,0,25,FALSE,0,10,5,,,2632
+1782,32,Don't Hate Da Choppa,,0,0,0,FALSE,0,0,0,,,22708
+1778,32,Don't Wanna Live Foreva,,0,0,0,FALSE,0,0,0,,,22703
+1756,32,Drop Da Basha,,0,0,25,FALSE,0,60,5,,,2644
+1783,32,Easy Killin',,0,0,0,FALSE,0,0,0,,,22709
+1796,32,Extra Choppin',,3,7,0,FALSE,0,0,0,,,22701
+1779,32,Finish 'Em Faster,,0,0,0,FALSE,0,0,0,,,22707
+1743,32,Fling Choppa,,0,0,20,FALSE,1,0,65,,,2631
+1768,32,Furious Choppin',,1,13,15,TRUE,5,25,5,,,2651
+1754,32,Git Stuck In,,0,0,15,FALSE,0,60,0,,,2642
+1776,32,Git To Da Choppa,,3,13,10,TRUE,6,30,0,,,2659
+1749,32,Go For Da Soft Spot,,1,0,30,FALSE,0,0,5,,,2637
+1760,32,Hurtin' Time,,2,0,0,FALSE,0,60,0,,,2648
+1781,32,I'm Still Here,,0,0,0,FALSE,0,0,0,,,22707
+1795,32,Keep It Comin',,3,11,0,FALSE,0,0,0,,,22707
+1770,32,Keep On Choppin',,1,5,25,FALSE,0,20,5,,,2653
+1791,32,Long Lasta,,2,3,0,FALSE,0,0,0,,,22707
+1794,32,Longer and Stronger,,3,3,0,FALSE,0,0,0,,,22709
+1747,32,Lotsa Choppin,,3,0,30,FALSE,0,0,0,,,2635
+1773,32,No More Helpin',,2,13,15,FALSE,0,30,5,,,2656
+1753,32,Outta My Face!,,0,0,50,FALSE,0,30,0,,,2641
+1761,32,Reckless Blow,,2,0,30,FALSE,0,0,5,,,2649
+1790,32,Red goes faster!,,1,11,0,FALSE,0,0,0,,,22708
+1757,32,Shrug It Off,,0,0,45,FALSE,0,60,0,,,2645
+1755,32,Sit Down!,,2,0,25,FALSE,0,20,5,,,2643
+1745,32,Slasha,,2,0,35,FALSE,0,0,5,,,2633
+1804,32,Stomp Da Yard,,3,15,0,FALSE,0,60,0,,,2665
+1793,32,Strong Finish,,2,11,0,FALSE,0,0,0,,,22702
+1801,32,Supa Chop,,0,0,0,FALSE,0,60,5,,,2662
+1800,32,Tantrum,,0,0,0,FALSE,0,60,0,,,2661
+1742,32,Throat Slasha,,1,0,30,FALSE,0,0,5,,,2630
+1772,32,Tired Already?,,2,9,15,FALSE,0,20,5,,,2655
+1750,32,Try An' Hurt Me,,1,0,25,FALSE,0,30,5,,,2638
+1785,32,Was Dat Yer Finger?,,0,0,0,FALSE,0,0,0,,,22701
+1802,32,We'z Fightin' Betta,,1,15,0,FALSE,0,60,0,,,2663
+1751,32,Weaklin' Killa,,2,0,40,FALSE,0,30,5,,,2639
+1792,32,Wear Em Down,,2,7,0,FALSE,0,0,0,,,22701
+1759,32,Wild Choppin',,3,0,55,FALSE,0,5,0,,,2647
+1788,32,Wot Rules?,,1,3,0,FALSE,0,0,0,,,22702
+1774,32,Wot's Da Rush?,,3,5,35,FALSE,0,30,0,,,2657
+1748,32,Yer All Bleedin' Now,,3,0,35,FALSE,0,10,0,,,2636
+1789,32,Yer Gettin' Soft,,1,7,0,FALSE,0,0,0,,,22701
+1803,32,Yer Goin Down!,,2,15,0,FALSE,0,60,0,,,2664
