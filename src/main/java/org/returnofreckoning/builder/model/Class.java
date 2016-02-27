@@ -4,9 +4,14 @@ import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @XmlRootElement()
 @XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(propOrder={"classID", "name", "abilities"})
+@JsonPropertyOrder({"classID", "name", "abilities"})
 public class Class {
 
 	private int classID;

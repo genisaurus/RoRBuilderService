@@ -3,13 +3,20 @@ package org.returnofreckoning.builder.model;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @XmlRootElement(name="abilityRequirement")
 @XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(propOrder={"position", "text"})
+@JsonPropertyOrder({"position", "text"})
 public class AbilityRequirement {
 
 	private int position;
 	private String text;
+	
+	public Integer[] temp = new Integer[5];
 	
 	public AbilityRequirement() {
 		this.position = 1;

@@ -60,7 +60,7 @@ public class AbilityDAO implements iAbilityDAO {
 		int bitfieldClassID = (int) Math.pow(2, classID - 1);
 		
 		String sql1 = "SELECT * FROM Classes WHERE classID=?";
-		String sql2 = "SELECT * FROM Abilities WHERE (classID & ?) = ? ORDER BY name";
+		String sql2 = "SELECT * FROM Abilities WHERE BITAND(classID,?) = ? ORDER BY name";
 		
 		try (Connection conn = DAOUtilities.getConnection()){
 			PreparedStatement stmt1 = conn.prepareStatement(sql1);
@@ -115,13 +115,12 @@ public class AbilityDAO implements iAbilityDAO {
 		int bitfieldClassID = (int) Math.pow(2, classID - 1);
 
 		String sql1 = "SELECT * FROM Classes WHERE classID=?";
-		String sql2 = "SELECT * FROM Abilities WHERE (classID & ?) = ? AND type=? ORDER BY name";
+		String sql2 = "SELECT * FROM Abilities WHERE BITAND(classID,?) = ? AND type=? ORDER BY name";
 		
 		try (Connection conn = DAOUtilities.getConnection()){
 			PreparedStatement stmt1 = conn.prepareStatement(sql1);
 			
-			stmt1.setInt(1, bitfieldClassID);
-			stmt1.setInt(2, bitfieldClassID);
+			stmt1.setInt(1, classID);
 			ResultSet rs = stmt1.executeQuery();
 			
 			while (rs.next()) {
@@ -131,8 +130,9 @@ public class AbilityDAO implements iAbilityDAO {
 			
 			PreparedStatement stmt2 = conn.prepareStatement(sql2);
 			
-			stmt2.setInt(1, classID);
-			stmt2.setString(2, type);
+			stmt2.setInt(1, bitfieldClassID);
+			stmt2.setInt(2, bitfieldClassID);
+			stmt2.setString(3, type);
 			rs = stmt2.executeQuery();
 
 			while (rs.next()) {

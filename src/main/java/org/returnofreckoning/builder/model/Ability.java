@@ -4,9 +4,18 @@ import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @XmlRootElement(name="ability")
 @XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(propOrder = { 	"abilityID", "classID", "name", "type", "masteryPathID", "requiredMasteryRank", 
+						"apCost", "channeled", "castTime", "cooldown", "range", "buffType", "tooltipText", 
+						"iconID", "tooltipValues", "abilityRequirements" })
+@JsonPropertyOrder({ 	"abilityID", "classID", "name", "type", "masteryPathID", "requiredMasteryRank", 
+						"apCost", "channeled", "castTime", "cooldown", "range", "buffType", "tooltipText", 
+						"iconID", "tooltipValues", "abilityRequirements" })
 public class Ability {
 
 	private int abilityID;

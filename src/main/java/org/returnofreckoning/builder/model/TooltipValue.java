@@ -3,9 +3,14 @@ package org.returnofreckoning.builder.model;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @XmlRootElement(name="tooltipValue")
 @XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(propOrder={"position", "statID", "statScale", "weaponScale", "castTimeScale", "levelOneValue", "levelPattern"})
+@JsonPropertyOrder({"position", "statID", "statScale", "weaponScale", "castTimeScale", "levelOneValue", "levelPattern"})
 public class TooltipValue {
 
 	private int position;
