@@ -1,5 +1,5 @@
-abilityID,position,statID,statScale,weaponScale,castTimeScale,levelOneValue,levelPattern
-606,1,0,0,0,1.5,26,26/27/26/27/26
-606,2,0,0,0,1.5,120,15/20/15/15/20/25
-607,1,0,0,0,1.5,40,6/7/7
-503,1,0,0,0,1.5,4,4
+abilityID,position,statID,statScale,weaponScale,castTimeScale,levelOneValue,levelFortyValue
+606,1,0,0,0,1.5,26,1056
+606,2,0,0,0,1.5,120,900
+607,1,0,0,0,1.5,40,300
+503,1,0,0,0,1.5,4,160

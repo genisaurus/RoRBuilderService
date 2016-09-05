@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS Tooltip_Values (
 	weaponScale DECIMAL(6,2),
 	castTimeScale DECIMAL(6,2),
 	levelOneValue INT,
-	levelPattern VARCHAR(1024),
+	levelFortyValue INT,
 	PRIMARY KEY(abilityID, position),
 	FOREIGN KEY(abilityID) REFERENCES Abilities(abilityID)
 );

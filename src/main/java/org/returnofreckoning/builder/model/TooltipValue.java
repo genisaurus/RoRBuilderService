@@ -9,8 +9,8 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @XmlRootElement(name="tooltipValue")
 @XmlAccessorType(XmlAccessType.FIELD)
-@XmlType(propOrder={"position", "statID", "statScale", "weaponScale", "castTimeScale", "levelOneValue", "levelPattern"})
-@JsonPropertyOrder({"position", "statID", "statScale", "weaponScale", "castTimeScale", "levelOneValue", "levelPattern"})
+@XmlType(propOrder={"position", "statID", "statScale", "weaponScale", "castTimeScale", "levelOneValue", "levelFortyValue"})
+@JsonPropertyOrder({"position", "statID", "statScale", "weaponScale", "castTimeScale", "levelOneValue", "levelFortyValue"})
 public class TooltipValue {
 
 	private int position;
@@ -19,7 +19,7 @@ public class TooltipValue {
 	private double weaponScale;
 	private double castTimeScale;
 	private int levelOneValue;
-	private String levelPattern;
+	private int levelFortyValue;
 	
 	public TooltipValue() {
 		this.position = 1;
@@ -27,7 +27,7 @@ public class TooltipValue {
 		this.statScale = 0;
 		this.weaponScale = 0;
 		this.levelOneValue = 0;
-		this.levelPattern = "0";
+		this.levelFortyValue = 0;
 	}
 	
 	public int getPosition() {
@@ -70,11 +70,11 @@ public class TooltipValue {
 		this.levelOneValue = levelOneValue;
 	}
 
-	public String getLevelPattern() {
-		return levelPattern;
+	public int getLevelFortyValue() {
+		return levelFortyValue;
 	}
-	public void setLevelPattern(String levelPattern) {
-		this.levelPattern = levelPattern;
+	public void setLevelFortyValue(int levelFortyValue) {
+		this.levelFortyValue = levelFortyValue;
 	}
 	
 	public String toString() {
@@ -86,7 +86,7 @@ public class TooltipValue {
 					weaponScale + ":" +
 					castTimeScale + ":" +
 					levelOneValue + ":" +
-					levelPattern + ":" +
+					levelFortyValue + ":" +
 					" }"
 					);
 	}

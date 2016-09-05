@@ -15,9 +15,7 @@ public class AbilityRequirement {
 
 	private int position;
 	private String text;
-	
-	public Integer[] temp = new Integer[5];
-	
+		
 	public AbilityRequirement() {
 		this.position = 1;
 		this.text = "";

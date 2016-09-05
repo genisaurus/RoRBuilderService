@@ -185,7 +185,7 @@ public class AbilityDAO implements iAbilityDAO {
 				ttv.setWeaponScale(rs.getDouble("weaponScale"));
 				ttv.setCastTimeScale(rs.getDouble("castTimeScale"));
 				ttv.setLevelOneValue(rs.getInt("levelOneValue"));
-				ttv.setLevelPattern(rs.getString("levelPattern"));
+				ttv.setLevelFortyValue(rs.getInt("levelFortyValue"));
 				
 				ttvList.add(ttv);
 			}
